@@ -9,3 +9,9 @@ A Ruby gem to convert images to ASCII.
 - [rmagick](https://rubygems.org/gems/rmagick)
 - [rainbow](https://rubygems.org/gems/rainbow)
 - [open-uri](https://rubygems.org/gems/open-uri)
+
+
+<!--
+Greatly based off of https://github.com/DaCuteRaccoon/ascii-image,
+but more maintained!
+-->
