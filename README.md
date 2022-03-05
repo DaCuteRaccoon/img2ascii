@@ -6,6 +6,6 @@ A Ruby gem to convert images to ASCII.
 
 
 ### This gem uses:
-[rmagick](https://rubygems.org/gems/rmagick)
-[rainbow](https://rubygems.org/gems/rainbow)
-[open-uri](https://rubygems.org/gems/open-uri)
+[rmagick](https://rubygems.org/gems/rmagick);
+[rainbow](https://rubygems.org/gems/rainbow);
+[open-uri](https://rubygems.org/gems/open-uri);
